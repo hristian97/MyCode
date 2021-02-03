@@ -1,0 +1,5 @@
+NSlidingPuzzle.cpp- create a sliding puzzle with N slides and a number I that points to the location of the empty tile. Use IDA*.
+Queens.cpp- On a chess board of N size place N queens in such a manner that they do not affect each other using MinConficlets +Queens.h
+Domashno3.cpp - Travelling Salesman problem through Genetic Algorithm + City.h+ Roads.h
+Homework_4.cpp - TicTacToe against computer using min-max with alpha-beta pruning + TicTacToe.h
+Homework5.cpp- Naive Bayes Classifier + house-votes-84.data + VoteProbability.h
